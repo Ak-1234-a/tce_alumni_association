@@ -11,7 +11,7 @@ const router = createBrowserRouter([
     element: <Interview/>
   },
   {
-    path: "/Register",
+    path: "/",
     element: <Register/>
   }
 ])
