@@ -49,7 +49,7 @@ function Register() {
 
  return (
   <>
-  <form className="container align-items-center" style={{border:"1px solid black", padding:"100px",backgroundColor:"brown", borderRadius:"10px",color:"white"}}>
+  <form className="container align-items-center" style={{width:"600px", border:"1px solid black", padding:"100px",backgroundColor:"brown", borderRadius:"10px",color:"white"}}>
     <img src={logo} alt="TCE Alumni Logo" style={{width:"100px", display:"block", margin:"0 auto"}} />
     <h1 style={{textAlign:"center"}}>Register Page</h1>
 
